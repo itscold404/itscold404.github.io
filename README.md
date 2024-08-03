@@ -11,4 +11,5 @@ University of Virginia, BS Computer Science
 
 ### Projects:
 **Spotify Social (Share your music taste with friends!)**
+
 **Tutoring Me (Find a tutor or someone to tutor!)**
