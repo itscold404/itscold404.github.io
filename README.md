@@ -5,9 +5,9 @@
 University of Virginia, BS Computer Science
 
 ### Work Experience:
-- Associate Software Engineer @ VT Group (July 2024 - Present)
-- Software Engineering Intern @ VT Group (May 2023 - August 2023)
+**Associate Software Engineer @ VT Group (_July 2024 - Present_)**
+**Software Engineering Intern @ VT Group (_May 2023 - August 2023_)**
 
 ### Projects:
-- Spotify Social (Share your music taste with friends!)
-- Tutoring Me (Find a tutor or someone to tutor!)
+**Spotify Social (Share your music taste with friends!)**
+**Tutoring Me (Find a tutor or someone to tutor!)**
